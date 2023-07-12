@@ -1,0 +1,17 @@
+{
+    "info":"With a plethora of websites all claiming to be reliable, you need to spend extra time and effort to verify deals and info available on different platforms. Simply bookmark Knowledgebooth.net to find the best discounts, blogs, and much more in one place.",
+    "links":[
+        {
+            "href":"./about_us",
+            "name":"About Us"
+        },
+        {
+            "href":"./contact_us",
+            "name":"Contact Us"
+        },
+        {
+            "href":"./privacy_policy",
+            "name":"Privacy Policy"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "nav_bg_color_primary": "bg-orange-400", 
+    "nav_bg_color_secondary": "bg-white",
+    "nav_bg_color_title": "bg-gray-100", 
+    "logo": "/assets/images/logo.webp",
+    "title":"KnowledgeHub",
+    "site_url":"knowledgehub.com",
+    "text_color_primary":  "text-black",
+    "text_color_secondary": "text-white",
+    "dropdown_bg_color": "bg-orange-300",
+    "dropdown_hover_bg_color": "hover:bg-gray-600",
+    "dropdown_text_color":"text-gray-700",
+    "dropdown_hover_text_color":"hover:text-white",
+    "menu_icon":"mdi-menu",
+    "menu_icon_close":"mdi-close",
+    "link_hover_color":"hover:text-orange-400",
+    "category_heading_color":"text-orange-400",
+    "_instructions": "Change text_color_secondary for changing icon color"
+}
